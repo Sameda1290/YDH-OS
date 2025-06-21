@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Preset xmlns="urn:schemas-nliteos-com:pn.v1">
+	<Date>06/21/2025 14:30:07</Date>
+	<AppInfo>
+		<Version>2025.6.10482</Version>
+		<Licensed>No</Licensed>
+		<Protections>Yes</Protections>
+		<Host>Windows 10 IoTEnterpriseS 21H2 x64 - 10.0.19044.5965 (ko-KR)</Host>
+	</AppInfo>
+	<ImageInfo>
+		<Version mode="offline">Windows 11 Setup 24H2 x64 - 10.0.26100.1 (en-US)</Version>
+		<GUID>{25849F04-9B0A-D938-BBDC-A7828C36F0FA}</GUID>
+	</ImageInfo>
+	<RemoveComponents AppRemovalMode="DISM"></RemoveComponents>
+	<Compatibility protectHidden="false">
+		<ComponentFeatures>
+			<Feature enabled="no">Recommended-Tablet</Feature>
+			<Feature enabled="no">VPN</Feature>
+			<Feature enabled="yes">ServicingStack</Feature>
+			<Feature enabled="yes">SFC</Feature>
+			<Feature enabled="yes">DefaultFonts</Feature>
+			<Feature enabled="yes">USB</Feature>
+			<Feature enabled="no">SafeMode</Feature>
+			<Feature enabled="yes">WLAN</Feature>
+		</ComponentFeatures>
+		<MachineDrivers>
+			<Machine enabled="yes">HostMachine</Machine>
+			<Machine enabled="no">Hyper-V VM</Machine>
+			<Machine enabled="no">Parallels VM</Machine>
+			<Machine enabled="no">Virtual Box VM</Machine>
+			<Machine enabled="no">VMware VM</Machine>
+		</MachineDrivers>
+	</Compatibility>
+	<Packages>
+		<Options>
+			<CleanHotfixedLeftovers>0</CleanHotfixedLeftovers>
+			<OptimizeAppX>false</OptimizeAppX>
+			<UpdateBootManager>false</UpdateBootManager>
+		</Options>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\de-de\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\en-gb\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\es-es\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\fr-fr\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\it-it\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ja-jp\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ko-kr\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ru-ru\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\tr-tr\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\zh-cn\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\zh-tw\lp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\WinPE-FontSupport-JA-JP.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\WinPE-FontSupport-KO-KR.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\WinPE-FontSupport-ZH-CN.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\WinPE-FontSupport-ZH-TW.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\de-de\winpe-setup-client_de-de.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\en-gb\winpe-setup-client_en-gb.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\en-us\winpe-setup-client_en-us.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\es-es\winpe-setup-client_es-es.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\fr-fr\winpe-setup-client_fr-fr.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\it-it\winpe-setup-client_it-it.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ja-jp\winpe-setup-client_ja-jp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ko-kr\winpe-setup-client_ko-kr.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ru-ru\winpe-setup-client_ru-ru.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\tr-tr\winpe-setup-client_tr-tr.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\zh-cn\winpe-setup-client_zh-cn.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\zh-tw\winpe-setup-client_zh-tw.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\de-de\winpe-setup_de-de.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\en-gb\winpe-setup_en-gb.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\en-us\winpe-setup_en-us.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\es-es\winpe-setup_es-es.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\fr-fr\winpe-setup_fr-fr.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\it-it\winpe-setup_it-it.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ja-jp\winpe-setup_ja-jp.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ko-kr\winpe-setup_ko-kr.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ru-ru\winpe-setup_ru-ru.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\tr-tr\winpe-setup_tr-tr.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\zh-cn\winpe-setup_zh-cn.cab</File>
+		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\zh-tw\winpe-setup_zh-tw.cab</File>
+	</Packages>
+	<Commands>
+		<PostUpdates>
+			<!--<Command>cmd /c echo Example from [MOUNTDIR]\Windows &amp; pause</Command>-->
+			<!--<Command>dism /image:[MOUNTDIR] /get-intl</Command>-->
+		</PostUpdates>
+	</Commands>
+	<Drivers>
+		<Options>
+			<ReuseDriverCache>false</ReuseDriverCache>
+			<ShowHidden>false</ShowHidden>
+		</Options>
+	</Drivers>
+	<Tweaks>
+		<Settings>
+			<TweakGroup name="System">
+				<Tweak name="Setup\CmdLine">X:\sources\setup.exe</Tweak>
+			</TweakGroup>
+		</Settings>
+		<Services></Services>
+		<ExtraServices></ExtraServices>
+	</Tweaks>
+	<ApplyOptions>
+		<ImageTasks>
+			<Task>imageSaveRebuild</Task>
+			<Task>imageFormatWim</Task>
+		</ImageTasks>
+		<AutoIsoFile>NTLite.iso</AutoIsoFile>
+		<AutoIsoLabel>NTLite</AutoIsoLabel>
+		<AutoSplitSize>4000</AutoSplitSize>
+	</ApplyOptions>
+	<Registry></Registry>
+</Preset>
