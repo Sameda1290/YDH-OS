@@ -2,7 +2,7 @@
 
 # YHD-OS
 
-Bu, `[Windows sürümü, örn: Windows 10 Pro 22H2]` tabanlı, `[amaç/hedeflenen kullanım, örn: geliştiriciler için optimize edilmiş, hafifleştirilmiş oyun sürümü, kurumsal dağıtım]` özel Windows ISO'sudur.
+Bu, `Windows 11 24H2 10.0.26100.1000 Yapısı` tabanlı, `Amacı olabildigince dil secenegi ve sadelestirilmis yapi sunan` özel Windows ISO'sudur.
 
 ## İçindekiler
 
@@ -19,7 +19,7 @@ Bu, `[Windows sürümü, örn: Windows 10 Pro 22H2]` tabanlı, `[amaç/hedeflene
 
 ## Hakkında
 
-Bu özel Windows ISO'su, `[orijinal Windows sürümünü]` altyapı olarak kullanarak `[hedeflenen kullanıcı kitlesi]` için optimize edilmiştir. Temel amacımız, `[ISO'nun sağladığı ana fayda veya çözüm]` sağlamaktır.
+Bu özel Windows ISO'su, `Windows 11 24H2 10.0.26100.1000` altyapı olarak kullanarak `Gunluk kullanim ve Dusuk seviyeli sistemler` için optimize edilmiştir. Temel amacımız, `Bircok surumu ve dili` sağlamaktır.
 
 Örnekler:
 
@@ -143,4 +143,4 @@ Bu özel Windows ISO'sunun oluşturulmasında kullanılan Windows işletim siste
 
 -----
 
-Bu şablonu kullanarak özel Windows ISO'nuzu daha iyi tanıtabilir ve kullanıcılarınız için anlaşılır bir kaynak sağlayabilirsiniz. Başarılar dilerim\!
+Bu ozellestirilmis iso Microsoftun Lisans sozlesmesine uygun hazirlanmistir.
