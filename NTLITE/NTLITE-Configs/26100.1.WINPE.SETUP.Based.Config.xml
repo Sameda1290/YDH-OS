@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>06/21/2025 14:30:07</Date>
+	<Date>06/21/2025 17:12:28</Date>
 	<AppInfo>
 		<Version>2025.6.10482</Version>
 		<Licensed>No</Licensed>
@@ -52,30 +52,6 @@
 		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\WinPE-FontSupport-KO-KR.cab</File>
 		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\WinPE-FontSupport-ZH-CN.cab</File>
 		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\WinPE-FontSupport-ZH-TW.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\de-de\winpe-setup-client_de-de.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\en-gb\winpe-setup-client_en-gb.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\en-us\winpe-setup-client_en-us.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\es-es\winpe-setup-client_es-es.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\fr-fr\winpe-setup-client_fr-fr.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\it-it\winpe-setup-client_it-it.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ja-jp\winpe-setup-client_ja-jp.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ko-kr\winpe-setup-client_ko-kr.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ru-ru\winpe-setup-client_ru-ru.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\tr-tr\winpe-setup-client_tr-tr.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\zh-cn\winpe-setup-client_zh-cn.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\zh-tw\winpe-setup-client_zh-tw.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\de-de\winpe-setup_de-de.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\en-gb\winpe-setup_en-gb.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\en-us\winpe-setup_en-us.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\es-es\winpe-setup_es-es.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\fr-fr\winpe-setup_fr-fr.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\it-it\winpe-setup_it-it.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ja-jp\winpe-setup_ja-jp.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ko-kr\winpe-setup_ko-kr.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\ru-ru\winpe-setup_ru-ru.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\tr-tr\winpe-setup_tr-tr.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\zh-cn\winpe-setup_zh-cn.cab</File>
-		<File>C:\Users\PC\Desktop\Windows Preinstallation Environment - V1\x64\WinPE_OCs\zh-tw\winpe-setup_zh-tw.cab</File>
 	</Packages>
 	<Commands>
 		<PostUpdates>
@@ -90,11 +66,7 @@
 		</Options>
 	</Drivers>
 	<Tweaks>
-		<Settings>
-			<TweakGroup name="System">
-				<Tweak name="Setup\CmdLine">X:\sources\setup.exe</Tweak>
-			</TweakGroup>
-		</Settings>
+		<Settings></Settings>
 		<Services></Services>
 		<ExtraServices></ExtraServices>
 	</Tweaks>
