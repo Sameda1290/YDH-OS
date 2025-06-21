@@ -143,4 +143,4 @@ Bu özel Windows ISO'sunun oluşturulmasında kullanılan Windows işletim siste
 
 -----
 
-Bu şablonu kullanarak özel Windows ISO'nuzu daha iyi tanıtabilir ve kullanıcılarınız için anlaşılır bir kaynak sağlayabilirsiniz. Başarılar dilerim\!
+Bu ozellestirilmis iso Microsoftun Lisans sozlesmesine uygun hazirlanmistir.
