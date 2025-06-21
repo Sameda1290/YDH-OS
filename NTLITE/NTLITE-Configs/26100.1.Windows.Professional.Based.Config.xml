@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>06/21/2025 13:33:00</Date>
+	<Date>06/21/2025 16:54:23</Date>
 	<AppInfo>
 		<Version>2025.6.10482</Version>
 		<Licensed>No</Licensed>
@@ -117,6 +117,8 @@
 		<c>microsoft.powerautomatedesktop 'Power Automate'</c>
 		<c>microsoft.rawimageextension 'Raw Image Extension'</c>
 		<c>microsoft.screensketch 'Snipping Tool'</c>
+		<c>microsoft.services.store.engagement 'Microsoft Engagement Framework'</c>
+		<c>microsoft.storepurchaseapp 'Store Experience Host'</c>
 		<c>microsoft.todos 'Microsoft To Do'</c>
 		<c>microsoft.webmediaextensions '웹 미디어 확장'</c>
 		<c>microsoft.windows.assignedaccesslockapp 'Assigned Access Lock app'</c>
@@ -134,6 +136,7 @@
 		<c>microsoft.windowsfeedbackhub 'Feedback Hub'</c>
 		<c>microsoft.windowsnotepad 'Windows Notepad'</c>
 		<c>microsoft.windowssoundrecorder 'Windows Sound Recorder'</c>
+		<c>microsoft.windowsstore 'Windows Mağazası'</c>
 		<c>microsoft.windowsterminal 'Windows 터미널'</c>
 		<c>microsoft.xbox.tcui 'Xbox TCUI'</c>
 		<c>microsoft.xboxgamingoverlay 'Game Bar'</c>
@@ -324,69 +327,6 @@
 			<ReuseDriverCache>false</ReuseDriverCache>
 			<ShowHidden>false</ShowHidden>
 		</Options>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakeDmaSecExtension.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakePCH-NDmaSecExtension.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakePCH-NSystem.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakePCH-NSystemNorthpeak.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakePCH-PDmaSecExtension.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakePCH-PSystem.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakePCH-PSystemLPSS.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakePCH-PSystemNorthpeak.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakePCH-SSystem.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakePCH-SSystemLPSS.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakePCH-SSystemNorthpeak.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakeSystem.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\AlderLake\Windows10-x64\AlderLakeSystemNorthpeak.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Drivers\JHI\DAL.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\DTT\drivers\x64\dtt_ext.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\DTT\drivers\x64\dtt_sw.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\GSCAuxDriver.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\gscheci.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Drivers\MEI\win10\heci.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Drivers\MEI\win8\heci.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Drivers\ICLS\iclsClient.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\IPF\drivers\x64\ipf_acpi.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\IPF\drivers\x64\ipf_cpu.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\memcntrl.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Drivers\WMIProvider\MEWMIProv.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\CtaChildDriver\CtaChildDriver.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\cui_dch.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\HdBusExt.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Drivers\WU\iaLPSS2_GPIO2_ADL.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Drivers\WU\iaLPSS2_I2C_ADL.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Drivers\WU\iaLPSS2_SPI_ADL.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Drivers\WU\iaLPSS2_UART2_ADL.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\RST\iaStorVD.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\igcc_dch.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\iigd_dch.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\I2CDriver\Intel_NF_I2C_Child.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\MiniCtaDriver\MiniCtaDriver.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\MSHdaDac.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Graphics\PmtChildDriver\PmtChildDriver.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\International\Display.Driver\nv_dispsi.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\International\NVPCF\nvpcf.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\International\PPC\nvppc.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\International\NvVAD\nvvad.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\International\HDAudio\nvhda.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\ExtRtk_APO_Tuning_9381\HDX_AsusExt_SpDllT_1.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\OVWrap2_25\OVWrap2.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\RealtekAPO_1046\RealtekAPO.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\RealtekASIO_8\RealtekASIO.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\RealtekHSA_275\RealtekHSA.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\RealtekService_543\RealtekService.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\RealtekUAPO2_38\RealtekUAPO2.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Lan\64\rt640x64.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Lan\32\rt640x86.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Lan\WinPE\64\ws640x64.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Lan\WinPE\32\ws640x86.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\ExtRtk_APO_Tuning_9381\HDX_AsusExt_APOT_1_general_on.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\ExtRtk_APO_Tuning_9381\HDX_AsusExt_APOT_AD72_G.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\ExtRtk_9381.1\HDX_AsusExt_RTK.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\ExtRtk_9381.1\HDX_AsusExt_RTK_Gen4_KD.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\Realtek\ExtRtk_9381.1\HDX_WhiteExt_RTK.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\HDXASUS.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\HDXSSTASUS.inf</File>
-		<File>C:\Users\PC\Desktop\AllDrivers\Audio\Win64\HDXWHITE.inf</File>
 	</Drivers>
 	<Unattended mode="1">
 		<AnswerFileLocationPanther>false</AnswerFileLocationPanther>
@@ -591,7 +531,27 @@
 				<Tweak name="CrashControl\AutoReboot">0</Tweak>
 			</TweakGroup>
 		</Settings>
-		<Services></Services>
+		<Services>
+			<TweakGroup name="services">
+				<Tweak name="AxInstSV\AxInstSV">4</Tweak>
+				<Tweak name="OneSyncSvc\OneSyncSvc">4</Tweak>
+				<Tweak name="AssignedAccessManagerSvc\AssignedAccessManagerSvc">4</Tweak>
+				<Tweak name="CloudBackupRestoreSvc\CloudBackupRestoreSvc">4</Tweak>
+				<Tweak name="DiagTrack\DiagTrack">4</Tweak>
+				<Tweak name="HvHost\HvHost">4</Tweak>
+				<Tweak name="vmickvpexchange\vmickvpexchange">4</Tweak>
+				<Tweak name="vmicguestinterface\vmicguestinterface">4</Tweak>
+				<Tweak name="vmicshutdown\vmicshutdown">4</Tweak>
+				<Tweak name="vmicheartbeat\vmicheartbeat">4</Tweak>
+				<Tweak name="vmicvmsession\vmicvmsession">4</Tweak>
+				<Tweak name="vmicrdv\vmicrdv">4</Tweak>
+				<Tweak name="vmictimesync\vmictimesync">4</Tweak>
+				<Tweak name="vmicvss\vmicvss">4</Tweak>
+				<Tweak name="edgeupdate\edgeupdate">4</Tweak>
+				<Tweak name="edgeupdatem\edgeupdatem">4</Tweak>
+				<Tweak name="TermService\TermService">4</Tweak>
+			</TweakGroup>
+		</Services>
 		<ExtraServices>
 			<TweakGroup name="drivers">
 				<Tweak name="fdc\fdc">4</Tweak>
